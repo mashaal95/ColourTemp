@@ -9,5 +9,6 @@ target '2019S1 Lab 3' do
   pod 'Firebase/Core'
   pod 'Firebase/Auth'
   pod 'Firebase/Firestore'
+  pod 'NightNight'
 
 end
